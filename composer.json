@@ -1,5 +1,5 @@
 {
-    "name": "php-amqplib/php-amqplib",
+    "name": "woku5420/swoole-amqplib",
     "replace": {
         "videlalvaro/php-amqplib": "self.version"
     },
